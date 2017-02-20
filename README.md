@@ -30,7 +30,6 @@ You'll see some start up output and a prompt:
 Then you can interact with corgibot by typing `corgibot help`.
 
     corgibot> corgibot help
-    corgibot animate me <query> - The same thing as `image me`, except adds [snip]
     corgibot help - Displays all of the help commands that corgibot knows about.
     ...
 
