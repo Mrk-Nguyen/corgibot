@@ -28,4 +28,7 @@ module.exports = (robot) ->
     res.send "My stumps are for splooting."
 
   robot.respond /love you/i, (res) ->
-    res.reply ", I love you too with all my stumps."
+    res.reply "I love you too with all my stumps."
+
+  robot.respond /have a bone/i, (res) ->
+    res.send "om nom noms: https://s-media-cache-ak0.pinimg.com/originals/ed/7e/3d/ed7e3d59122658562db4c0030cb90fe3.gif"
