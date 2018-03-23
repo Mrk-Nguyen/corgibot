@@ -1,4 +1,4 @@
-#Corgi-Bot Setup on Slack
+# Corgi-Bot Setup on Slack
 
 1. Go to: https://YOURCOMPANYHERE.slack.com/apps/A0F7XDU93-hubot
 2. Click the button "Add Configuration"
@@ -10,7 +10,7 @@ Recommend you come up with a clever name such as "jarvis" or "pollo" for your bo
 
 Here is a good pic of Pollo you can use:
 
-![](https://instagram.fsnc1-4.fna.fbcdn.net/t51.2885-15/sh0.08/e35/p750x750/15035684_335732633469169_2923906996589559808_n.jpg)
+![](https://instagram.fsnc1-1.fna.fbcdn.net/vp/94fe4ae141f3bd1c2b7f9907dca7be13/5B319FB0/t51.2885-19/s320x320/26869144_1977647955596072_3418444468947255296_n.jpg)
 
 4. Copy the API Token and set it in your environment variable on your server (or send the token to someone who is setting up the server for you).
 5. Wait for the token to be added and for the server to be deployed.
